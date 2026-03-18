@@ -1,4 +1,4 @@
-console.log("LOOPING MAJU\n");
+console.log("LOOPING MAJU\ngit ");
 for (let i = 1; i <= 5; i++) {
   console.log(i);
 }
